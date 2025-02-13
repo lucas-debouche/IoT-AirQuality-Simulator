@@ -1,0 +1,24 @@
+# ninja log v6
+30	552	7527692105610422	CMakeFiles/IoT_Simulator.dir/HumiditySensor.cpp.obj	bf50217d718a4d4a
+938	1140	7500733489140297	projet1.exe	29a71cd19dc82998
+9	262	7528766585424673	build.ninja	b4537fa9632bda9
+5	584	7527692105360510	CMakeFiles/IoT_Simulator.dir/main.cpp.obj	419ff341cba7efc8
+442	558	7478378728969450	ap4a.exe	3550f69d7652cdd6
+20	544	7527692105510421	CMakeFiles/IoT_Simulator.dir/Sensor.cpp.obj	6aa5f06e8c606ad5
+35	559	7527692105660432	CMakeFiles/IoT_Simulator.dir/SoundSensor.cpp.obj	2c5e06e628e37c2e
+11	796	7527692105420509	CMakeFiles/IoT_Simulator.dir/server.cpp.obj	172d62480e687397
+25	558	7527692105560417	CMakeFiles/IoT_Simulator.dir/TemperatureSensor.cpp.obj	1affd50293b5cc8d
+41	557	7527692105710431	CMakeFiles/IoT_Simulator.dir/LightSensor.cpp.obj	59846d0037dbcf67
+16	664	7527692105470420	CMakeFiles/IoT_Simulator.dir/scheduler.cpp.obj	e748b5fc87af9b85
+796	915	7527692113266250	IoT_Simulator.exe	6ef428e9c53fba76
+107	1300	7528780324983746	CMakeFiles/IoT_Simulator.dir/Sensor.cpp.obj	6aa5f06e8c606ad5
+72	1307	7528780324626283	CMakeFiles/IoT_Simulator.dir/main.cpp.obj	419ff341cba7efc8
+161	1310	7528780325520638	CMakeFiles/IoT_Simulator.dir/LightSensor.cpp.obj	59846d0037dbcf67
+146	1321	7528780325364311	CMakeFiles/IoT_Simulator.dir/SoundSensor.cpp.obj	2c5e06e628e37c2e
+118	1327	7528780325091257	CMakeFiles/IoT_Simulator.dir/TemperatureSensor.cpp.obj	1affd50293b5cc8d
+134	1331	7528780325248136	CMakeFiles/IoT_Simulator.dir/HumiditySensor.cpp.obj	bf50217d718a4d4a
+98	1483	7528780324884627	CMakeFiles/IoT_Simulator.dir/scheduler.cpp.obj	e748b5fc87af9b85
+87	1664	7528780324779944	CMakeFiles/IoT_Simulator.dir/server.cpp.obj	172d62480e687397
+1664	2076	7528780340547789	IoT_Simulator.exe	6ef428e9c53fba76
+40	668	7529510744126102	CMakeFiles/IoT_Simulator.dir/server.cpp.obj	172d62480e687397
+669	904	7529510750376211	IoT_Simulator.exe	6ef428e9c53fba76
